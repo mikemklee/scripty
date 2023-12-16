@@ -24,7 +24,7 @@ function Navbar() {
               font.className,
             )}
           >
-            appname.ai
+            scripty
           </h1>
         </Link>
       </div>
